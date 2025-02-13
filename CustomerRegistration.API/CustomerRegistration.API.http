@@ -1,0 +1,6 @@
+@CustomerRegistration.API_HostAddress = http://localhost:5150
+
+GET {{CustomerRegistration.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

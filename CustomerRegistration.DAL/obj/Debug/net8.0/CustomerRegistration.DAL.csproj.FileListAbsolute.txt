@@ -1,0 +1,14 @@
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\bin\Debug\net8.0\CustomerRegistration.DAL.deps.json
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\bin\Debug\net8.0\CustomerRegistration.DAL.runtimeconfig.json
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\bin\Debug\net8.0\CustomerRegistration.DAL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\bin\Debug\net8.0\CustomerRegistration.DAL.pdb
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.csproj.AssemblyReference.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.AssemblyInfoInputs.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.AssemblyInfo.cs
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.csproj.CoreCompileInputs.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\refint\CustomerRegistration.DAL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.pdb
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\CustomerRegistration.DAL.genruntimeconfig.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.DAL\obj\Debug\net8.0\ref\CustomerRegistration.DAL.dll

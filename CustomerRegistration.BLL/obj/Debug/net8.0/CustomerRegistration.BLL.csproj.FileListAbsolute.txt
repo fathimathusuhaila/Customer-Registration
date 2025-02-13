@@ -1,0 +1,15 @@
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\bin\Debug\net8.0\CustomerRegistration.BLL.deps.json
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\bin\Debug\net8.0\CustomerRegistration.BLL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\bin\Debug\net8.0\CustomerRegistration.BLL.pdb
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\bin\Debug\net8.0\CustomerRegistration.DAL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\bin\Debug\net8.0\CustomerRegistration.DAL.pdb
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.csproj.AssemblyReference.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.AssemblyInfoInputs.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.AssemblyInfo.cs
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.csproj.CoreCompileInputs.cache
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\Customer.D49107FB.Up2Date
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\refint\CustomerRegistration.BLL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.pdb
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\ref\CustomerRegistration.BLL.dll
