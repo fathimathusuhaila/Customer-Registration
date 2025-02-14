@@ -2,7 +2,7 @@
   {
     "ContainingType": "CustomerRegistration.API.Controllers.CustomerController",
     "Method": "AddCustomer",
-    "RelativePath": "api/Customer",
+    "RelativePath": "api/v{version}/Customer",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -11,6 +11,11 @@
         "Name": "customerRequestDto",
         "Type": "CustomerRegistration.BLL.DTOs.CustomerRequestDto",
         "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -18,17 +23,23 @@
   {
     "ContainingType": "CustomerRegistration.API.Controllers.CustomerController",
     "Method": "GetCustomers",
-    "RelativePath": "api/Customer",
+    "RelativePath": "api/v{version}/Customer",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
     "ContainingType": "CustomerRegistration.API.Controllers.CustomerController",
     "Method": "GetCustomer",
-    "RelativePath": "api/Customer/{id}",
+    "RelativePath": "api/v{version}/Customer/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -37,6 +48,11 @@
         "Name": "id",
         "Type": "System.Guid",
         "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -44,7 +60,7 @@
   {
     "ContainingType": "CustomerRegistration.API.Controllers.CustomerController",
     "Method": "UpdateCustomer",
-    "RelativePath": "api/Customer/{id}",
+    "RelativePath": "api/v{version}/Customer/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -58,6 +74,11 @@
         "Name": "customerRequestDto",
         "Type": "CustomerRegistration.BLL.DTOs.CustomerRequestDto",
         "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -65,7 +86,7 @@
   {
     "ContainingType": "CustomerRegistration.API.Controllers.CustomerController",
     "Method": "DeleteCustomer",
-    "RelativePath": "api/Customer/{id}",
+    "RelativePath": "api/v{version}/Customer/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -73,6 +94,11 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
         "IsRequired": true
       }
     ],

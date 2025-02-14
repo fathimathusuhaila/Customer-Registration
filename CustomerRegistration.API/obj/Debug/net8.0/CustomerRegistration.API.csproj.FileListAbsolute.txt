@@ -170,3 +170,5 @@ C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\obj\De
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\obj\Debug\net8.0\CustomerRegistration.API.pdb
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\obj\Debug\net8.0\CustomerRegistration.API.genruntimeconfig.cache
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\obj\Debug\net8.0\ref\CustomerRegistration.API.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.API\obj\Debug\net8.0\CustomerRegistration.API.sourcelink.json

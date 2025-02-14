@@ -13,3 +13,4 @@ C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\De
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\refint\CustomerRegistration.BLL.dll
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.pdb
 C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\ref\CustomerRegistration.BLL.dll
+C:\Users\suhai\source\repos\CustomerRegistration\CustomerRegistration.BLL\obj\Debug\net8.0\CustomerRegistration.BLL.sourcelink.json

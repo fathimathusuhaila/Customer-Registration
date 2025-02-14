@@ -4,6 +4,7 @@ using CustomerRegistration.BLL.Services;
 using CustomerRegistration.DAL.DbContext;
 using CustomerRegistration.DAL.Interfaces;
 using CustomerRegistration.DAL.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CustomerRegistration.API
 {
@@ -22,6 +23,12 @@ namespace CustomerRegistration.API
             builder.Services.AddDbContext<AppDbContext>();
             builder.Services.AddScoped<ICustomerService, CustomerService>();
             builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+            builder.Services.AddApiVersioning(options =>
+            {
+                options.AssumeDefaultVersionWhenUnspecified = true;
+                options.DefaultApiVersion = new ApiVersion(1, 0);
+                options.ReportApiVersions = true;
+            });
 
             var app = builder.Build();
 

@@ -7,7 +7,8 @@ using System.Net;
 
 namespace CustomerRegistration.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
+    [ApiVersion("1.0")]
     [ApiController]
     public class CustomerController : ControllerBase
     {
